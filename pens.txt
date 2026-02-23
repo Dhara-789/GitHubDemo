@@ -1,5 +1,0 @@
-Hey, Prantik
-
-
-
-This is about git diff command.
